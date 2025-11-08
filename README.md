@@ -1,7 +1,7 @@
 ## Inverted-V-tail-Xplane-Simulation
 A Simulink-based control model for inverted V-tail fixed-wing flight simulation with X-Plane
 
-[Project website](http://thaibinhnguyen.xyz/project-view/he-thong-dieu-khien-may-bay-khong-nguoi-lai/)
+[Project website](https://thaibinhnguyen.xyz/inverted-v-tail-fixed-wing-uav-simulation-based-on-x-plane-and-simulink/)
 
 # 1. Overview
 This project provide a collection of useful resources for beginners to understand control algorithms for an inverted V-tail fixed-wing.
