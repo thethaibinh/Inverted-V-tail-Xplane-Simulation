@@ -22,5 +22,5 @@ The project has come with real-time UDP protocol for controlling aircraft model 
   It's a inverted V-tail configuration and is the same UAV class with my model. Therefore, it's compatible with the control model.
   You might need to fine tune several PID parameters to make it flight.
   
-  ![Penguin](https://forums.x-plane.org/screenshots/monthly_2016_07/Capture4.JPG.09472a5f25f85a6740248065b33446c8.JPG)
+  ![Penguin](https://media.invisioncic.com/c334187/monthly_2016_07/Capture4.JPG.09472a5f25f85a6740248065b33446c8.JPG)
   ![ASE](https://github.com/thethaibinh/Inverted-V-tail-Xplane-Simulation/blob/master/Screenshot%20(87).png?raw=true)
